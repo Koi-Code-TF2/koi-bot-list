@@ -1,0 +1,30 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"Koi"
+		],
+		"description": "Koi's custom rule list for Pazer's Bot Detector",
+		"title": "Koi's rule list",
+		"update_url": ""
+	},
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "t.me/cyrexlinuz",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"t.me/cyrexlinuz"
+					]
+				}
+			}
+		}
+	]
+}
