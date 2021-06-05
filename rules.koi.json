@@ -6,7 +6,7 @@
 		],
 		"description": "Koi's custom rule list for Pazer's Bot Detector",
 		"title": "Koi's rule list",
-		"update_url": "https://raw.githubusercontent.com/Koi-Code-TF2/koi-bot-list/main/rules.koi.json?token=AHVYWPY5HUQGCIHRKE2UMYTAXPNB2"
+		"update_url": "https://raw.githubusercontent.com/Koi-Code-TF2/koi-bot-list/main/rules.koi.json"
 	},
 	"rules": [
 		{
