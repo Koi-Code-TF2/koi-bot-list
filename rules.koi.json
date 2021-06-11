@@ -21,7 +21,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"t.me/cyrexlinuz"
+						"t.me/cyrexlinuz",
+						"One Trick"
 					]
 				}
 			}
