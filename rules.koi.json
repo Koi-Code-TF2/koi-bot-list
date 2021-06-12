@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "Name Contains Match",
+			"description": "Koi Ruleset - Name Contains Match",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
