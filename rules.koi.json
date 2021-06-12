@@ -22,7 +22,8 @@
 					"mode": "contains",
 					"patterns": [
 						"t.me/cyrexlinuz",
-						"One Trick"
+						"One Trick",
+						"human helper"
 					]
 				}
 			}
